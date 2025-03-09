@@ -6,5 +6,3 @@ devtools::install_github("yashacode/ugh")
 library(ugh)
 ugh()
 ~~~
-
-Shoutout to 
