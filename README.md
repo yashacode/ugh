@@ -1,4 +1,4 @@
-Do you ever feel unmotivated when coding? Stuck? Drained of motivation? ugh.
+Do you ever feel unmotivated when coding? Stuck? Drained of inspiration? ugh.
 
 ~~~
 install.packages("devtools") 
